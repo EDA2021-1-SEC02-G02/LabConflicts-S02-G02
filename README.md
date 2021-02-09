@@ -4,6 +4,8 @@
 - Briggitte Juliana Arcos Gomez - b.arcos@uniandes.edu.co - 202014103
 - estudiante 1: Ehimar vargas 
 - estudiante 2: Brigtte aracos
+---------------------------------------------------------
+
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
